@@ -1,0 +1,29 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Proyecto orientado a manejo de modelos,servicios y vistas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaps/twitter.git"
+  },
+  "keywords": [
+    "modelos",
+    "vistas",
+    "servicios",
+    "Node",
+    "JS"
+  ],
+  "author": "Monica Portillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaps/twitter/issues"
+  },
+  "homepage": "https://github.com/monicaps/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
